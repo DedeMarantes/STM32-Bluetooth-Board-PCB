@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BluetoothBoardSTM32-PCBFootprint")(type "KiCad")(uri "${KIPRJMOD}/BluetoothBoardSTM32-PCBFootprint.pretty")(options "")(descr ""))
+)
